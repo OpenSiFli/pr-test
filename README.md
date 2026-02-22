@@ -23,3 +23,5 @@ The `sync-pr-to-gitlab` action automates syncing of pull requests from GitHub to
 | `GITLAB_TOKEN` | Access token for GitLab API |
 | `GIT_CONFIG_NAME` | Bot username for Git commits |
 | `GIT_CONFIG_EMAIL` | Bot email for Git commits |
+
+HalfSweet
