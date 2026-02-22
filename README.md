@@ -25,4 +25,4 @@ The `sync-pr-to-gitlab` action automates syncing of pull requests from GitHub to
 | `GIT_CONFIG_EMAIL` | Bot email for Git commits |
 
 HalfSweet
-reabse
+reabse force
